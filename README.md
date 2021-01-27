@@ -18,7 +18,7 @@ To use the application you can go to the deployed version provided above or depl
 
 The below video will give you a sample of what to expect. 
 
-<a href="https://www.youtube.com/watch?v=i-y-24QRIlc&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/video.PNG?raw=true" 
+<a href="https://www.youtube.com/watch?v=mWkWTdhnn6c&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/Burgers/blob/main/imgs/VideoImg.PNG?raw=true" 
 alt="video image" /></a>
 
 
